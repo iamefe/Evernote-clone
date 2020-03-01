@@ -1,3 +1,11 @@
+## View the web app online
+
+I have deployed this application [on netlify here](https://evernote-clone-efe.netlify.com/)
+
+## About this project
+
+To explore the usefulness of React when in play with Firebase, and other professional tools like React Quill, material UI and its icons, I have built this project with FreeCodeCamp's guidiance.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
